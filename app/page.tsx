@@ -1,4 +1,5 @@
 import Image from "next/image";
+import profilePhoto from "../public/stacy-nyangere.png";
 
 export default function Home() {
   return (
@@ -88,8 +89,8 @@ export default function Home() {
           </div>
           <div className="relative flex items-center justify-center">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-slate-200 dark:border-slate-800">
-        <Image
-                src="/stacy-nyangere.png"
+              <Image
+                src={profilePhoto}
                 alt="Stacy Nyangere"
                 width={500}
                 height={600}
