@@ -13,7 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stacy Nyangere | Digital Health Implementation Specialist",
+  title:
+    "Stacy Nyangere | Digital Health Project Manager & Clinical Transformation Specialist",
   description:
     "Nurse Specialist focused on digital health and service improvement. Expert in digital health implementation, project management, and workflow optimization. Leading digital rollouts and helping teams adopt tools that improve clinical practice.",
 };

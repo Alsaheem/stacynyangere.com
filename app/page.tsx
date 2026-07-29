@@ -55,7 +55,7 @@ export default function Home() {
               Stacy Nyangere
             </h1>
             <p className="mb-4 text-xl font-medium text-slate-700 dark:text-slate-300 md:text-2xl">
-              Digital Health Implementation Specialist
+              Digital Health Project Manager &amp; Clinical Transformation Specialist
             </p>
             <p className="mb-2 text-lg text-slate-600 dark:text-slate-400">
               Project Management | Operations Manager
